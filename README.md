@@ -28,6 +28,7 @@ JDK-18
 #Static
 #UserInput
 #VehicleProject
+#Sorting&Reversal
 
 
 
