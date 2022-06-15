@@ -5,7 +5,7 @@
 
 Java Practice program for beginner
 
-IntelliJ
+IntelliJ-IDEA
 JDK-18
 
 
