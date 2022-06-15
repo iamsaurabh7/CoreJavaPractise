@@ -1,5 +1,8 @@
 # CoreJavaPractise
 
+![java](https://user-images.githubusercontent.com/91486795/173729767-3019314c-a8df-4f3b-84d2-1a9fdbbae94d.jpg)
+
+
 Java Practice program for beginner
 
 IntelliJ
@@ -29,4 +32,4 @@ JDK-18
 
 
 #More Coming Soon.........
-![java](https://user-images.githubusercontent.com/91486795/173729767-3019314c-a8df-4f3b-84d2-1a9fdbbae94d.jpg)
+
