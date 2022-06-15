@@ -1,7 +1,11 @@
 # CoreJavaPractise
+
 Java Practice program for beginner
+
 IntelliJ
 JDK-18
+
+
 #Abstract Class
 #Arrays
 #AutoBoxing
@@ -21,4 +25,4 @@ JDK-18
 #Static
 #UserInput
 #VehicleProject
-#
+#More Coming Soon.........
